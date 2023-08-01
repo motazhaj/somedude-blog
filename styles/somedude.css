@@ -1,0 +1,30 @@
+body{
+    background-color: #414141;
+    margin:50px;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+nav{
+    font-size: 18px;
+    text-align: left;
+}
+
+h1{
+    color:#ffbd66;
+    font-size: 60px;
+}
+
+p{
+    color:#ffffff;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+    color: #ffbd66
+}
+
+a:hover{
+    text-decoration: underline;
+}

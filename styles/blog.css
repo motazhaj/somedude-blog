@@ -1,0 +1,30 @@
+p{
+    text-align: left;
+}
+
+main{
+    background-color: #1d1d1d;
+    width: 900px;
+    margin: 50px auto;
+    padding: 20px 60px;
+    border-radius: 20px;
+}
+
+h2{
+    color: #ffbd66;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+p{
+    margin: 15;
+}
+
+.blogBody{
+    margin:50px 0px;
+}
+
+.date{
+    border-left: 3px solid white;
+    padding-left: 10px;
+}
